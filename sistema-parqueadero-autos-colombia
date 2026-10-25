@@ -1,0 +1,15 @@
+autos-colombia/
+│
+├── database/
+│   └── script_sql.sql
+│
+├── src/
+│   ├── modelo/
+│   │   └── conexion.py (o conexion.js)
+│   ├── controlador/
+│   │   └── operaciones.py
+│   └── vista/
+│       └── main.py
+│
+├── README.md
+└── requirements.txt
